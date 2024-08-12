@@ -10,6 +10,7 @@ from launch_ros.actions import Node
 import xacro
 
 
+
 def generate_launch_description():
 
     # Check if we're told to use sim time
@@ -22,6 +23,7 @@ def generate_launch_description():
     
     # Create a robot_state_publisher node
     params = {'robot_description': robot_description_config.toxml(), 'use_sim_time': use_sim_time}
+
     node_robot_state_publisher = Node(
         package='robot_state_publisher',
         executable='robot_state_publisher',
@@ -29,12 +31,14 @@ def generate_launch_description():
         parameters=[params]
     )
 
-    node_joint_state_publisher = Node(
-        package='joint_state_publisher',
-        executable='joint_state_publisher',
-        output='screen',
-        parameters=[params]
-    )
+    
+
+    # node_joint_state_publisher = Node(
+    #     package='joint_state_publisher',
+    #     executable='joint_state_publisher',
+    #     output='screen',
+    #     parameters=[params]
+    # )
 
 
     # Launch!
@@ -44,6 +48,6 @@ def generate_launch_description():
             default_value='false',
             description='Use sim time if true'),
 
-        node_robot_state_publisher,
-        node_joint_state_publisher
+        node_robot_state_publisher
+        # node_joint_state_publisher
     ])
