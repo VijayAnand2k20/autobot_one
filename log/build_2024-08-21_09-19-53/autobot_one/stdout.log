@@ -1,0 +1,32 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/config/drive_bot.rviz
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/config/empty.yaml
+-- Symlinking: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/config/my_controllers.yaml
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/camera.xacro
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/depth_camera.xacro
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/gazebo_control.xacro
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/inertial_macros.xacro
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/lidar.xacro
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/robot.urdf.xacro
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/robot_core.xacro
+-- Symlinking: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/ros2_control.xacro
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/launch/launch_sim.launch.py
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/launch/rsp.launch.py
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/worlds/autobot_world.world
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/worlds/empty.world
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/ament_index/resource_index/package_run_dependencies/autobot_one
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/ament_index/resource_index/parent_prefix_path/autobot_one
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/environment/path.sh
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/environment/path.dsv
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/local_setup.bash
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/local_setup.sh
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/local_setup.zsh
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/local_setup.dsv
+-- Symlinking: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/package.dsv
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/ament_index/resource_index/packages/autobot_one
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/cmake/autobot_oneConfig.cmake
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/cmake/autobot_oneConfig-version.cmake
+-- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/package.xml

@@ -1,0 +1,36 @@
+[0.019s] Invoking command in '/home/jarvis/magic/ROS/autobot_ws/src/autobot_one/build/autobot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/build/autobot_one -- -j8 -l8
+[0.074s] Invoked command in '/home/jarvis/magic/ROS/autobot_ws/src/autobot_one/build/autobot_one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/build/autobot_one -- -j8 -l8
+[0.109s] Invoking command in '/home/jarvis/magic/ROS/autobot_ws/src/autobot_one/build/autobot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/build/autobot_one
+[0.122s] -- Install configuration: ""
+[0.123s] -- Execute custom install script
+[0.124s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/config/drive_bot.rviz
+[0.124s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/config/empty.yaml
+[0.125s] -- Symlinking: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/config/my_controllers.yaml
+[0.135s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/camera.xacro
+[0.135s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/depth_camera.xacro
+[0.136s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/gazebo_control.xacro
+[0.136s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/inertial_macros.xacro
+[0.136s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/lidar.xacro
+[0.136s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/robot.urdf.xacro
+[0.136s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/robot_core.xacro
+[0.137s] -- Symlinking: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/description/ros2_control.xacro
+[0.147s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/launch/launch_sim.launch.py
+[0.147s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/launch/rsp.launch.py
+[0.147s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/worlds/autobot_world.world
+[0.148s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/worlds/empty.world
+[0.148s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/ament_index/resource_index/package_run_dependencies/autobot_one
+[0.148s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/ament_index/resource_index/parent_prefix_path/autobot_one
+[0.148s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/environment/ament_prefix_path.sh
+[0.149s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/environment/ament_prefix_path.dsv
+[0.149s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/environment/path.sh
+[0.149s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/environment/path.dsv
+[0.149s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/local_setup.bash
+[0.150s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/local_setup.sh
+[0.150s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/local_setup.zsh
+[0.150s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/local_setup.dsv
+[0.150s] -- Symlinking: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/package.dsv
+[0.160s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/ament_index/resource_index/packages/autobot_one
+[0.160s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/cmake/autobot_oneConfig.cmake
+[0.160s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/cmake/autobot_oneConfig-version.cmake
+[0.160s] -- Up-to-date symlink: /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/install/autobot_one/share/autobot_one/package.xml
+[0.162s] Invoked command in '/home/jarvis/magic/ROS/autobot_ws/src/autobot_one/build/autobot_one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jarvis/magic/ROS/autobot_ws/src/autobot_one/build/autobot_one

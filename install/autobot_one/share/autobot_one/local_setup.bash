@@ -1,0 +1,1 @@
+/home/jarvis/magic/ROS/autobot_ws/src/autobot_one/build/autobot_one/ament_cmake_environment_hooks/local_setup.bash
