@@ -16,9 +16,11 @@ Steps to run:
 
 6. Launch the localization_launch file to use the obtained map or run `ros2 launch slam_toolbox online_async_launch.py slam_params_file:=./config/mapper_params_online_async.yaml use_sim_time:=true` and make sure to change the mode to mapping in the mapping params file to map a new world yourself.
 
-7. After running the localization_launch file, use the 2D Pose Estimate to mark the position of your robot in rviz2
+7. Run `ros2 launch nav2_bringup navigation_launch.py`
 
-8. Open the nav2 panel in rviz2 and set waypoints to see your robot navigate through the environment.
+8. After running the localization_launch file, use the 2D Pose Estimate to mark the position of your robot in rviz2
+
+9. Open the nav2 panel in rviz2 and set waypoints to see your robot navigate through the environment.
 
 
 
